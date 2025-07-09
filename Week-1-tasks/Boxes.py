@@ -24,6 +24,6 @@ print(minCount(10, 4)) # 3
 print(minCount(100, 1)) # 100
 print(minCount(100, 100)) # 1
 print(minCount(100, 99)) # 2
-print(minCount(5, 5)) # 1
-print(minCount(5, 6)) # 1
+print(minCount(5, 5)) 
+print(minCount(5, 6)) 
         
